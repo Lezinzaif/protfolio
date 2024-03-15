@@ -1,0 +1,17 @@
+.page {
+  max-width: 1200px !important;
+  margin: auto;
+  padding: 0px 20px;
+  /* padding-bottom: 0; */
+  /* background-color: red; */
+
+}
+
+@media only screen and (max-width: 800px) {
+  .page {
+    padding: 0px 10px;
+
+  }
+
+
+}
