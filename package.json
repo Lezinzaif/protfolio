@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "homepage": "htpps://Lezinzaif.github.io/protfolio",
     "predeploy": "npm run build",
     "deploy": "gh-page -d dist",
     "dev": "vite",
